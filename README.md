@@ -6,9 +6,8 @@ The project covers testing scenarios to search Article from Google and Wikipedia
 
 ### *Test class - SearchArticleGigaBerlinTest.java* 
 ### Below are the list of Test cases:
-##### firstScenarioNavigateGoogleSearchPageAndSearchWikipedia()
-##### secondScenarioOpenWikipediaAndSearchArticle()
-##### thirdScenarioOpenGoogleMapAndSubmitForm() 
+##### navigateGoogleSearchPageAndSearchWikipedia()
+##### openWikipediaAndSearchArticleVerifyDetailsAndOpenGoogleMapThenVerifyAddress()
 
 The tests are executed in parallel with 1 threads as default.
 
