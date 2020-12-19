@@ -1,5 +1,5 @@
 # Search Article Automation Project
-=================
+
 The project is build in [Serenity](https://github.com/serenity-bdd/serenity-core), [Selinium](https://www.selenium.dev/) and [Maven](https://maven.apache.org/)
 
 The project covers testing scenarios to search Article from Google and Wikipedia Pages.
