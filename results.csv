@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Verify details in google and wikipedia","Open Google Search Engine and search Wikipedia","SUCCESS","2020-11-20T16:11:46.093+01:00[Europe/Berlin]","0.0","17.05"
+"Verify details in google and wikipedia","In search box of Wikipedia submit Article as GigaBerlin and verify Coordinates, Logistics and Site Concerns. Then verify the co-ordinates of Searched Article from Wikipedia in new Tab of Google Map","SUCCESS","2020-11-20T16:12:03.264+01:00[Europe/Berlin]","0.0","35.87"
